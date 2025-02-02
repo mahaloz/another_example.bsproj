@@ -1,0 +1,12 @@
+last_change = 2025-02-02T04:51:48.422942Z
+addr = 0x71d
+size = 0xb8
+name = "my_main"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-02-02T04:51:48.422942Z
+name = "my_main"
+addr = 0x71d
+
+[header.args]
