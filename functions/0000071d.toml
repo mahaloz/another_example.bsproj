@@ -1,12 +1,12 @@
-last_change = 2025-02-02T05:12:07.636515Z
+last_change = 2025-02-02T05:27:50.691909Z
 addr = 0x71d
 size = 0xb8
-name = "dank_dude"
+name = "main"
 artifact_type = "Function"
 
 [header]
-last_change = 2025-02-02T05:07:24.854155Z
-name = "dank_dude"
+last_change = 2025-02-02T05:27:50.691909Z
+name = "main"
 addr = 0x71d
 
 [header.args]
