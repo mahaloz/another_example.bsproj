@@ -1,0 +1,12 @@
+last_change = 2025-02-02T05:29:05.124815Z
+addr = 0x6fd
+size = 0x20
+name = "dudo"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-02-02T05:29:05.124815Z
+name = "dudo"
+addr = 0x6fd
+
+[header.args]
