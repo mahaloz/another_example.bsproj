@@ -1,0 +1,12 @@
+last_change = 2025-02-02T05:28:18.770326Z
+addr = 0x664
+size = 0x89
+type = "bool8"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-02-02T05:28:18.770326Z
+addr = 0x664
+type = "bool8"
+
+[header.args]
