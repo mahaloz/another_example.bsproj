@@ -1,10 +1,10 @@
-last_change = 2025-02-02T05:28:11.429947Z
+last_change = 2025-02-02T05:28:13.820408Z
 name = "my_struct"
 size = 0x8
 artifact_type = "Struct"
 
 [members.0x0]
-name = "field_0"
+name = "thing_"
 offset = 0x0
 type = "long long"
 size = 0x8
