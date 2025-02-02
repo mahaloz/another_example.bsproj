@@ -1,4 +1,4 @@
-last_change = 2025-02-02T05:28:18.770326Z
+last_change = 2025-02-02T05:28:23.740051Z
 addr = 0x664
 size = 0x89
 type = "bool8"
@@ -10,3 +10,10 @@ addr = 0x664
 type = "bool8"
 
 [header.args]
+
+[stack_vars.-0x18]
+last_change = 2025-02-02T05:28:23.740051Z
+offset = -24
+name = "another_dude"
+size = 0xc
+addr = 0x664
