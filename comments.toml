@@ -1,6 +1,6 @@
 [0x71d]
-last_change = 2025-02-02T05:10:46.331195Z
+last_change = 2025-02-02T05:11:15.329675Z
 addr = 0x71d
 func_addr = 0x71d
-comment = "\nBinSync: 18 new changes available\n"
+comment = "BinSync: 18 new changes available"
 decompiled = true
