@@ -1,11 +1,13 @@
-last_change = 2025-02-02T05:28:36.121933Z
+last_change = 2025-02-02T05:28:43.561024Z
 addr = 0x6ed
 size = 0x10
+name = "shoop"
 type = "int"
 artifact_type = "Function"
 
 [header]
-last_change = 2025-02-02T05:28:36.121933Z
+last_change = 2025-02-02T05:28:43.561024Z
+name = "shoop"
 addr = 0x6ed
 type = "int"
 
