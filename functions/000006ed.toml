@@ -1,0 +1,12 @@
+last_change = 2025-02-02T05:28:36.121933Z
+addr = 0x6ed
+size = 0x10
+type = "int"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-02-02T05:28:36.121933Z
+addr = 0x6ed
+type = "int"
+
+[header.args]
