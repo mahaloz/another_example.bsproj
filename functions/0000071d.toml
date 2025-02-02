@@ -1,4 +1,4 @@
-last_change = 2025-02-02T05:27:50.691909Z
+last_change = 2025-02-02T05:27:54.960623Z
 addr = 0x71d
 size = 0xb8
 name = "main"
@@ -10,3 +10,10 @@ name = "main"
 addr = 0x71d
 
 [header.args]
+
+[stack_vars.-0x18]
+last_change = 2025-02-02T05:27:54.960623Z
+offset = -24
+name = "things"
+size = 0x10
+addr = 0x71d
