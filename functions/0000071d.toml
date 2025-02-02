@@ -1,4 +1,4 @@
-last_change = 2025-02-02T05:27:54.960623Z
+last_change = 2025-02-02T05:27:57.590030Z
 addr = 0x71d
 size = 0xb8
 name = "main"
@@ -16,4 +16,11 @@ last_change = 2025-02-02T05:27:54.960623Z
 offset = -24
 name = "things"
 size = 0x10
+addr = 0x71d
+
+[stack_vars.-0x2c]
+last_change = 2025-02-02T05:27:57.590030Z
+offset = -44
+name = "your_mom"
+size = 0x4
 addr = 0x71d
