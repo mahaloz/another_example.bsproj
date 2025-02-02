@@ -4,3 +4,10 @@ addr = 0x71d
 func_addr = 0x71d
 comment = "BinSync: 20 new changes available"
 decompiled = true
+
+[0x5d0]
+last_change = 2025-02-02T05:29:31.018866Z
+addr = 0x5d0
+func_addr = 0x5d0
+comment = "comment ya head"
+decompiled = true
