@@ -1,0 +1,6 @@
+last_change = 2025-02-02T05:28:08.841372Z
+name = "my_struct"
+size = 0x0
+artifact_type = "Struct"
+
+[members]
