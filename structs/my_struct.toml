@@ -1,0 +1,9 @@
+name = "my_struct"
+size = 0x8
+artifact_type = "Struct"
+
+[members.0x0]
+name = "thing_"
+offset = 0x0
+type = "long long"
+size = 0x8
