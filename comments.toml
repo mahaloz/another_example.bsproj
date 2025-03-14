@@ -1,0 +1,5 @@
+[0x71d]
+addr = 0x71d
+func_addr = 0x71d
+comment = "BinSync: 20 new changes available"
+decompiled = true
