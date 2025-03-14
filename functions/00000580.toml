@@ -1,0 +1,12 @@
+last_change = 2025-03-14T22:22:25.265721Z
+addr = 0x580
+size = 0x2a
+name = "my_start"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-03-14T22:22:25.265721Z
+name = "my_start"
+addr = 0x580
+
+[header.args]
