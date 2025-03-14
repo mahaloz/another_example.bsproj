@@ -1,0 +1,12 @@
+last_change = 2025-03-14T20:47:47.188769Z
+addr = 0x870
+size = 0x2
+name = "fini"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-03-14T20:47:47.188769Z
+name = "fini"
+addr = 0x870
+
+[header.args]
